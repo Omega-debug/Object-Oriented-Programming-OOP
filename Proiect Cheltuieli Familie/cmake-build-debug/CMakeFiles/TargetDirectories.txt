@@ -1,0 +1,3 @@
+/Users/omega1/Downloads/LAB 7 FULL EDITION 2/cmake-build-debug/CMakeFiles/LAB_7_FULL_EDITION.dir
+/Users/omega1/Downloads/LAB 7 FULL EDITION 2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/omega1/Downloads/LAB 7 FULL EDITION 2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
